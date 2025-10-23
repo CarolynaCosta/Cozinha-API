@@ -4,6 +4,6 @@
     { "src": "api/receitas.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "api/receitas.js" }
+    { "src": "/api/(.*)", "dest": "/api/receitas.js" }
   ]
 }
