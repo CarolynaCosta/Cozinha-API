@@ -1980,5 +1980,1985 @@
     ],
     "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
     "imagem": "https://cdn.panelinha.com.br/receita/1600000000150-comida.jpg"
+  },
+  {
+    "id": 151,
+    "nome": "Brigadeiro versão 1",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000085-comida.jpg"
+  },
+  {
+    "id": 152,
+    "nome": "Pão de Queijo versão 2",
+    "ingredientes": [
+      "polvilho azedo",
+      "leite",
+      "queijo minas",
+      "ovo",
+      "óleo"
+    ],
+    "modo_preparo": "Misture tudo, molde bolinhas e asse até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000046-comida.jpg"
+  },
+  {
+    "id": 153,
+    "nome": "Acarajé versão 3",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000019-comida.jpg"
+  },
+  {
+    "id": 154,
+    "nome": "Brigadeiro versão 4",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000055-comida.jpg"
+  },
+  {
+    "id": 155,
+    "nome": "Canjica versão 5",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000148-comida.jpg"
+  },
+  {
+    "id": 156,
+    "nome": "Arroz de Carreteiro versão 6",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000010-comida.jpg"
+  },
+  {
+    "id": 157,
+    "nome": "Coxinha de Frango versão 7",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000073-comida.jpg"
+  },
+  {
+    "id": 158,
+    "nome": "Coxinha de Frango versão 8",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000093-comida.jpg"
+  },
+  {
+    "id": 159,
+    "nome": "Acarajé versão 9",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000069-comida.jpg"
+  },
+  {
+    "id": 160,
+    "nome": "Brigadeiro versão 10",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000145-comida.jpg"
+  },
+  {
+    "id": 161,
+    "nome": "Canjica versão 11",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000128-comida.jpg"
+  },
+  {
+    "id": 162,
+    "nome": "Baião de Dois versão 12",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000062-comida.jpg"
+  },
+  {
+    "id": 163,
+    "nome": "Brigadeiro versão 13",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000095-comida.jpg"
+  },
+  {
+    "id": 164,
+    "nome": "Escondidinho de Carne Seca versão 14",
+    "ingredientes": [
+      "carne seca",
+      "mandioca",
+      "leite",
+      "manteiga",
+      "queijo ralado"
+    ],
+    "modo_preparo": "Faça um purê de mandioca, monte camadas com a carne seca e cubra com queijo. Leve ao forno para gratinar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000101-comida.jpg"
+  },
+  {
+    "id": 165,
+    "nome": "Canjica versão 15",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000048-comida.jpg"
+  },
+  {
+    "id": 166,
+    "nome": "Bolinho de Chuva versão 16",
+    "ingredientes": [
+      "farinha de trigo",
+      "açúcar",
+      "ovo",
+      "leite",
+      "fermento",
+      "canela"
+    ],
+    "modo_preparo": "Misture tudo, frite em óleo quente e polvilhe açúcar e canela.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000134-comida.jpg"
+  },
+  {
+    "id": 167,
+    "nome": "Coxinha de Frango versão 17",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000013-comida.jpg"
+  },
+  {
+    "id": 168,
+    "nome": "Acarajé versão 18",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000119-comida.jpg"
+  },
+  {
+    "id": 169,
+    "nome": "Bolinho de Chuva versão 19",
+    "ingredientes": [
+      "farinha de trigo",
+      "açúcar",
+      "ovo",
+      "leite",
+      "fermento",
+      "canela"
+    ],
+    "modo_preparo": "Misture tudo, frite em óleo quente e polvilhe açúcar e canela.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000134-comida.jpg"
+  },
+  {
+    "id": 170,
+    "nome": "Brigadeiro versão 20",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000105-comida.jpg"
+  },
+  {
+    "id": 171,
+    "nome": "Escondidinho de Carne Seca versão 21",
+    "ingredientes": [
+      "carne seca",
+      "mandioca",
+      "leite",
+      "manteiga",
+      "queijo ralado"
+    ],
+    "modo_preparo": "Faça um purê de mandioca, monte camadas com a carne seca e cubra com queijo. Leve ao forno para gratinar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000021-comida.jpg"
+  },
+  {
+    "id": 172,
+    "nome": "Coxinha de Frango versão 22",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000043-comida.jpg"
+  },
+  {
+    "id": 173,
+    "nome": "Brigadeiro versão 23",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000075-comida.jpg"
+  },
+  {
+    "id": 174,
+    "nome": "Farofa de Banana versão 24",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000057-comida.jpg"
+  },
+  {
+    "id": 175,
+    "nome": "Canjica versão 25",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000068-comida.jpg"
+  },
+  {
+    "id": 176,
+    "nome": "Arroz de Carreteiro versão 26",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000120-comida.jpg"
+  },
+  {
+    "id": 177,
+    "nome": "Coxinha de Frango versão 27",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000103-comida.jpg"
+  },
+  {
+    "id": 178,
+    "nome": "Farofa de Banana versão 28",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000077-comida.jpg"
+  },
+  {
+    "id": 179,
+    "nome": "Canjica versão 29",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000108-comida.jpg"
+  },
+  {
+    "id": 180,
+    "nome": "Baião de Dois versão 30",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000032-comida.jpg"
+  },
+  {
+    "id": 181,
+    "nome": "Coxinha de Frango versão 31",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000053-comida.jpg"
+  },
+  {
+    "id": 182,
+    "nome": "Feijoada versão 32",
+    "ingredientes": [
+      "feijão preto",
+      "carne seca",
+      "linguiça",
+      "costelinha",
+      "arroz",
+      "farinha de mandioca",
+      "laranja"
+    ],
+    "modo_preparo": "Cozinhe o feijão preto com as carnes defumadas e temperos. Sirva com arroz, farofa e laranja.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1443457900000-Feijoada.jpg"
+  },
+  {
+    "id": 183,
+    "nome": "Pão de Queijo versão 33",
+    "ingredientes": [
+      "polvilho azedo",
+      "leite",
+      "queijo minas",
+      "ovo",
+      "óleo"
+    ],
+    "modo_preparo": "Misture tudo, molde bolinhas e asse até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000026-comida.jpg"
+  },
+  {
+    "id": 184,
+    "nome": "Baião de Dois versão 34",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000072-comida.jpg"
+  },
+  {
+    "id": 185,
+    "nome": "Escondidinho de Carne Seca versão 35",
+    "ingredientes": [
+      "carne seca",
+      "mandioca",
+      "leite",
+      "manteiga",
+      "queijo ralado"
+    ],
+    "modo_preparo": "Faça um purê de mandioca, monte camadas com a carne seca e cubra com queijo. Leve ao forno para gratinar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000041-comida.jpg"
+  },
+  {
+    "id": 186,
+    "nome": "Arroz de Carreteiro versão 36",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000040-comida.jpg"
+  },
+  {
+    "id": 187,
+    "nome": "Canjica versão 37",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000058-comida.jpg"
+  },
+  {
+    "id": 188,
+    "nome": "Acarajé versão 38",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000029-comida.jpg"
+  },
+  {
+    "id": 189,
+    "nome": "Baião de Dois versão 39",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000112-comida.jpg"
+  },
+  {
+    "id": 190,
+    "nome": "Brigadeiro versão 40",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000025-comida.jpg"
+  },
+  {
+    "id": 191,
+    "nome": "Pão de Queijo versão 41",
+    "ingredientes": [
+      "polvilho azedo",
+      "leite",
+      "queijo minas",
+      "ovo",
+      "óleo"
+    ],
+    "modo_preparo": "Misture tudo, molde bolinhas e asse até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000116-comida.jpg"
+  },
+  {
+    "id": 192,
+    "nome": "Canjica versão 42",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000018-comida.jpg"
+  },
+  {
+    "id": 193,
+    "nome": "Brigadeiro versão 43",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000105-comida.jpg"
+  },
+  {
+    "id": 194,
+    "nome": "Acarajé versão 44",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000089-comida.jpg"
+  },
+  {
+    "id": 195,
+    "nome": "Pão de Queijo versão 45",
+    "ingredientes": [
+      "polvilho azedo",
+      "leite",
+      "queijo minas",
+      "ovo",
+      "óleo"
+    ],
+    "modo_preparo": "Misture tudo, molde bolinhas e asse até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000046-comida.jpg"
+  },
+  {
+    "id": 196,
+    "nome": "Escondidinho de Carne Seca versão 46",
+    "ingredientes": [
+      "carne seca",
+      "mandioca",
+      "leite",
+      "manteiga",
+      "queijo ralado"
+    ],
+    "modo_preparo": "Faça um purê de mandioca, monte camadas com a carne seca e cubra com queijo. Leve ao forno para gratinar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000081-comida.jpg"
+  },
+  {
+    "id": 197,
+    "nome": "Canjica versão 47",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000028-comida.jpg"
+  },
+  {
+    "id": 198,
+    "nome": "Farofa de Banana versão 48",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000147-comida.jpg"
+  },
+  {
+    "id": 199,
+    "nome": "Canjica versão 49",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000098-comida.jpg"
+  },
+  {
+    "id": 200,
+    "nome": "Baião de Dois versão 50",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000092-comida.jpg"
+  },
+  {
+    "id": 201,
+    "nome": "Arroz de Carreteiro versão 51",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000120-comida.jpg"
+  },
+  {
+    "id": 202,
+    "nome": "Coxinha de Frango versão 52",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000003-comida.jpg"
+  },
+  {
+    "id": 203,
+    "nome": "Farofa de Banana versão 53",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000067-comida.jpg"
+  },
+  {
+    "id": 204,
+    "nome": "Farofa de Banana versão 54",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000007-comida.jpg"
+  },
+  {
+    "id": 205,
+    "nome": "Farofa de Banana versão 55",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000127-comida.jpg"
+  },
+  {
+    "id": 206,
+    "nome": "Farofa de Banana versão 56",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000047-comida.jpg"
+  },
+  {
+    "id": 207,
+    "nome": "Brigadeiro versão 57",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000005-comida.jpg"
+  },
+  {
+    "id": 208,
+    "nome": "Acarajé versão 58",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000119-comida.jpg"
+  },
+  {
+    "id": 209,
+    "nome": "Escondidinho de Carne Seca versão 59",
+    "ingredientes": [
+      "carne seca",
+      "mandioca",
+      "leite",
+      "manteiga",
+      "queijo ralado"
+    ],
+    "modo_preparo": "Faça um purê de mandioca, monte camadas com a carne seca e cubra com queijo. Leve ao forno para gratinar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000131-comida.jpg"
+  },
+  {
+    "id": 210,
+    "nome": "Baião de Dois versão 60",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000032-comida.jpg"
+  },
+  {
+    "id": 211,
+    "nome": "Farofa de Banana versão 61",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000127-comida.jpg"
+  },
+  {
+    "id": 212,
+    "nome": "Farofa de Banana versão 62",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000047-comida.jpg"
+  },
+  {
+    "id": 213,
+    "nome": "Coxinha de Frango versão 63",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000023-comida.jpg"
+  },
+  {
+    "id": 214,
+    "nome": "Farofa de Banana versão 64",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000107-comida.jpg"
+  },
+  {
+    "id": 215,
+    "nome": "Escondidinho de Carne Seca versão 65",
+    "ingredientes": [
+      "carne seca",
+      "mandioca",
+      "leite",
+      "manteiga",
+      "queijo ralado"
+    ],
+    "modo_preparo": "Faça um purê de mandioca, monte camadas com a carne seca e cubra com queijo. Leve ao forno para gratinar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000141-comida.jpg"
+  },
+  {
+    "id": 216,
+    "nome": "Baião de Dois versão 66",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000012-comida.jpg"
+  },
+  {
+    "id": 217,
+    "nome": "Brigadeiro versão 67",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000135-comida.jpg"
+  },
+  {
+    "id": 218,
+    "nome": "Brigadeiro versão 68",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000025-comida.jpg"
+  },
+  {
+    "id": 219,
+    "nome": "Baião de Dois versão 69",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000062-comida.jpg"
+  },
+  {
+    "id": 220,
+    "nome": "Arroz de Carreteiro versão 70",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000010-comida.jpg"
+  },
+  {
+    "id": 221,
+    "nome": "Coxinha de Frango versão 71",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000003-comida.jpg"
+  },
+  {
+    "id": 222,
+    "nome": "Arroz de Carreteiro versão 72",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000030-comida.jpg"
+  },
+  {
+    "id": 223,
+    "nome": "Baião de Dois versão 73",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000052-comida.jpg"
+  },
+  {
+    "id": 224,
+    "nome": "Canjica versão 74",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000028-comida.jpg"
+  },
+  {
+    "id": 225,
+    "nome": "Arroz de Carreteiro versão 75",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000100-comida.jpg"
+  },
+  {
+    "id": 226,
+    "nome": "Coxinha de Frango versão 76",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000143-comida.jpg"
+  },
+  {
+    "id": 227,
+    "nome": "Escondidinho de Carne Seca versão 77",
+    "ingredientes": [
+      "carne seca",
+      "mandioca",
+      "leite",
+      "manteiga",
+      "queijo ralado"
+    ],
+    "modo_preparo": "Faça um purê de mandioca, monte camadas com a carne seca e cubra com queijo. Leve ao forno para gratinar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000111-comida.jpg"
+  },
+  {
+    "id": 228,
+    "nome": "Canjica versão 78",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000008-comida.jpg"
+  },
+  {
+    "id": 229,
+    "nome": "Coxinha de Frango versão 79",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000053-comida.jpg"
+  },
+  {
+    "id": 230,
+    "nome": "Bolinho de Chuva versão 80",
+    "ingredientes": [
+      "farinha de trigo",
+      "açúcar",
+      "ovo",
+      "leite",
+      "fermento",
+      "canela"
+    ],
+    "modo_preparo": "Misture tudo, frite em óleo quente e polvilhe açúcar e canela.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000094-comida.jpg"
+  },
+  {
+    "id": 231,
+    "nome": "Acarajé versão 81",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000139-comida.jpg"
+  },
+  {
+    "id": 232,
+    "nome": "Acarajé versão 82",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000089-comida.jpg"
+  },
+  {
+    "id": 233,
+    "nome": "Farofa de Banana versão 83",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000027-comida.jpg"
+  },
+  {
+    "id": 234,
+    "nome": "Farofa de Banana versão 84",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000007-comida.jpg"
+  },
+  {
+    "id": 235,
+    "nome": "Acarajé versão 85",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000019-comida.jpg"
+  },
+  {
+    "id": 236,
+    "nome": "Acarajé versão 86",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000109-comida.jpg"
+  },
+  {
+    "id": 237,
+    "nome": "Acarajé versão 87",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000009-comida.jpg"
+  },
+  {
+    "id": 238,
+    "nome": "Escondidinho de Carne Seca versão 88",
+    "ingredientes": [
+      "carne seca",
+      "mandioca",
+      "leite",
+      "manteiga",
+      "queijo ralado"
+    ],
+    "modo_preparo": "Faça um purê de mandioca, monte camadas com a carne seca e cubra com queijo. Leve ao forno para gratinar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000061-comida.jpg"
+  },
+  {
+    "id": 239,
+    "nome": "Brigadeiro versão 89",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000065-comida.jpg"
+  },
+  {
+    "id": 240,
+    "nome": "Canjica versão 90",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000008-comida.jpg"
+  },
+  {
+    "id": 241,
+    "nome": "Arroz de Carreteiro versão 91",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000090-comida.jpg"
+  },
+  {
+    "id": 242,
+    "nome": "Canjica versão 92",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000148-comida.jpg"
+  },
+  {
+    "id": 243,
+    "nome": "Coxinha de Frango versão 93",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000093-comida.jpg"
+  },
+  {
+    "id": 244,
+    "nome": "Pão de Queijo versão 94",
+    "ingredientes": [
+      "polvilho azedo",
+      "leite",
+      "queijo minas",
+      "ovo",
+      "óleo"
+    ],
+    "modo_preparo": "Misture tudo, molde bolinhas e asse até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000086-comida.jpg"
+  },
+  {
+    "id": 245,
+    "nome": "Canjica versão 95",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000018-comida.jpg"
+  },
+  {
+    "id": 246,
+    "nome": "Farofa de Banana versão 96",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000087-comida.jpg"
+  },
+  {
+    "id": 247,
+    "nome": "Arroz de Carreteiro versão 97",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000100-comida.jpg"
+  },
+  {
+    "id": 248,
+    "nome": "Coxinha de Frango versão 98",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000123-comida.jpg"
+  },
+  {
+    "id": 249,
+    "nome": "Farofa de Banana versão 99",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000007-comida.jpg"
+  },
+  {
+    "id": 250,
+    "nome": "Pão de Queijo versão 100",
+    "ingredientes": [
+      "polvilho azedo",
+      "leite",
+      "queijo minas",
+      "ovo",
+      "óleo"
+    ],
+    "modo_preparo": "Misture tudo, molde bolinhas e asse até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000046-comida.jpg"
+  },
+  {
+    "id": 251,
+    "nome": "Bolinho de Chuva versão 101",
+    "ingredientes": [
+      "farinha de trigo",
+      "açúcar",
+      "ovo",
+      "leite",
+      "fermento",
+      "canela"
+    ],
+    "modo_preparo": "Misture tudo, frite em óleo quente e polvilhe açúcar e canela.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000124-comida.jpg"
+  },
+  {
+    "id": 252,
+    "nome": "Coxinha de Frango versão 102",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000053-comida.jpg"
+  },
+  {
+    "id": 253,
+    "nome": "Brigadeiro versão 103",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000075-comida.jpg"
+  },
+  {
+    "id": 254,
+    "nome": "Bolinho de Chuva versão 104",
+    "ingredientes": [
+      "farinha de trigo",
+      "açúcar",
+      "ovo",
+      "leite",
+      "fermento",
+      "canela"
+    ],
+    "modo_preparo": "Misture tudo, frite em óleo quente e polvilhe açúcar e canela.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000034-comida.jpg"
+  },
+  {
+    "id": 255,
+    "nome": "Baião de Dois versão 105",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000022-comida.jpg"
+  },
+  {
+    "id": 256,
+    "nome": "Pão de Queijo versão 106",
+    "ingredientes": [
+      "polvilho azedo",
+      "leite",
+      "queijo minas",
+      "ovo",
+      "óleo"
+    ],
+    "modo_preparo": "Misture tudo, molde bolinhas e asse até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000046-comida.jpg"
+  },
+  {
+    "id": 257,
+    "nome": "Pão de Queijo versão 107",
+    "ingredientes": [
+      "polvilho azedo",
+      "leite",
+      "queijo minas",
+      "ovo",
+      "óleo"
+    ],
+    "modo_preparo": "Misture tudo, molde bolinhas e asse até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000086-comida.jpg"
+  },
+  {
+    "id": 258,
+    "nome": "Bolinho de Chuva versão 108",
+    "ingredientes": [
+      "farinha de trigo",
+      "açúcar",
+      "ovo",
+      "leite",
+      "fermento",
+      "canela"
+    ],
+    "modo_preparo": "Misture tudo, frite em óleo quente e polvilhe açúcar e canela.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000124-comida.jpg"
+  },
+  {
+    "id": 259,
+    "nome": "Coxinha de Frango versão 109",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000103-comida.jpg"
+  },
+  {
+    "id": 260,
+    "nome": "Baião de Dois versão 110",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000112-comida.jpg"
+  },
+  {
+    "id": 261,
+    "nome": "Canjica versão 111",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000078-comida.jpg"
+  },
+  {
+    "id": 262,
+    "nome": "Acarajé versão 112",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000089-comida.jpg"
+  },
+  {
+    "id": 263,
+    "nome": "Baião de Dois versão 113",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000092-comida.jpg"
+  },
+  {
+    "id": 264,
+    "nome": "Farofa de Banana versão 114",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000037-comida.jpg"
+  },
+  {
+    "id": 265,
+    "nome": "Farofa de Banana versão 115",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000087-comida.jpg"
+  },
+  {
+    "id": 266,
+    "nome": "Pão de Queijo versão 116",
+    "ingredientes": [
+      "polvilho azedo",
+      "leite",
+      "queijo minas",
+      "ovo",
+      "óleo"
+    ],
+    "modo_preparo": "Misture tudo, molde bolinhas e asse até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000006-comida.jpg"
+  },
+  {
+    "id": 267,
+    "nome": "Acarajé versão 117",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000059-comida.jpg"
+  },
+  {
+    "id": 268,
+    "nome": "Arroz de Carreteiro versão 118",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000070-comida.jpg"
+  },
+  {
+    "id": 269,
+    "nome": "Farofa de Banana versão 119",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000097-comida.jpg"
+  },
+  {
+    "id": 270,
+    "nome": "Farofa de Banana versão 120",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000007-comida.jpg"
+  },
+  {
+    "id": 271,
+    "nome": "Arroz de Carreteiro versão 121",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000070-comida.jpg"
+  },
+  {
+    "id": 272,
+    "nome": "Moqueca de Peixe versão 122",
+    "ingredientes": [
+      "peixe branco",
+      "pimentão",
+      "tomate",
+      "cebola",
+      "leite de coco",
+      "azeite de dendê"
+    ],
+    "modo_preparo": "Refogue os legumes, adicione o peixe e cozinhe com leite de coco e azeite de dendê até o molho engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1637160060000-Moqueca-de-peixe.jpg"
+  },
+  {
+    "id": 273,
+    "nome": "Acarajé versão 123",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000109-comida.jpg"
+  },
+  {
+    "id": 274,
+    "nome": "Brigadeiro versão 124",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000115-comida.jpg"
+  },
+  {
+    "id": 275,
+    "nome": "Baião de Dois versão 125",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000112-comida.jpg"
+  },
+  {
+    "id": 276,
+    "nome": "Farofa de Banana versão 126",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000027-comida.jpg"
+  },
+  {
+    "id": 277,
+    "nome": "Acarajé versão 127",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000059-comida.jpg"
+  },
+  {
+    "id": 278,
+    "nome": "Baião de Dois versão 128",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000112-comida.jpg"
+  },
+  {
+    "id": 279,
+    "nome": "Coxinha de Frango versão 129",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000023-comida.jpg"
+  },
+  {
+    "id": 280,
+    "nome": "Canjica versão 130",
+    "ingredientes": [
+      "milho para canjica",
+      "leite",
+      "açúcar",
+      "canela",
+      "coco ralado"
+    ],
+    "modo_preparo": "Cozinhe o milho, junte o leite e o açúcar e cozinhe até engrossar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000138-comida.jpg"
+  },
+  {
+    "id": 281,
+    "nome": "Escondidinho de Carne Seca versão 131",
+    "ingredientes": [
+      "carne seca",
+      "mandioca",
+      "leite",
+      "manteiga",
+      "queijo ralado"
+    ],
+    "modo_preparo": "Faça um purê de mandioca, monte camadas com a carne seca e cubra com queijo. Leve ao forno para gratinar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000121-comida.jpg"
+  },
+  {
+    "id": 282,
+    "nome": "Coxinha de Frango versão 132",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000093-comida.jpg"
+  },
+  {
+    "id": 283,
+    "nome": "Bolinho de Chuva versão 133",
+    "ingredientes": [
+      "farinha de trigo",
+      "açúcar",
+      "ovo",
+      "leite",
+      "fermento",
+      "canela"
+    ],
+    "modo_preparo": "Misture tudo, frite em óleo quente e polvilhe açúcar e canela.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000114-comida.jpg"
+  },
+  {
+    "id": 284,
+    "nome": "Acarajé versão 134",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000079-comida.jpg"
+  },
+  {
+    "id": 285,
+    "nome": "Brigadeiro versão 135",
+    "ingredientes": [
+      "leite condensado",
+      "chocolate em pó",
+      "manteiga",
+      "granulado"
+    ],
+    "modo_preparo": "Cozinhe tudo até desgrudar da panela. Enrole e passe no granulado.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000095-comida.jpg"
+  },
+  {
+    "id": 286,
+    "nome": "Baião de Dois versão 136",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000022-comida.jpg"
+  },
+  {
+    "id": 287,
+    "nome": "Pão de Queijo versão 137",
+    "ingredientes": [
+      "polvilho azedo",
+      "leite",
+      "queijo minas",
+      "ovo",
+      "óleo"
+    ],
+    "modo_preparo": "Misture tudo, molde bolinhas e asse até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000116-comida.jpg"
+  },
+  {
+    "id": 288,
+    "nome": "Coxinha de Frango versão 138",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000023-comida.jpg"
+  },
+  {
+    "id": 289,
+    "nome": "Escondidinho de Carne Seca versão 139",
+    "ingredientes": [
+      "carne seca",
+      "mandioca",
+      "leite",
+      "manteiga",
+      "queijo ralado"
+    ],
+    "modo_preparo": "Faça um purê de mandioca, monte camadas com a carne seca e cubra com queijo. Leve ao forno para gratinar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000061-comida.jpg"
+  },
+  {
+    "id": 290,
+    "nome": "Farofa de Banana versão 140",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000097-comida.jpg"
+  },
+  {
+    "id": 291,
+    "nome": "Baião de Dois versão 141",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000132-comida.jpg"
+  },
+  {
+    "id": 292,
+    "nome": "Arroz de Carreteiro versão 142",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000090-comida.jpg"
+  },
+  {
+    "id": 293,
+    "nome": "Acarajé versão 143",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000099-comida.jpg"
+  },
+  {
+    "id": 294,
+    "nome": "Baião de Dois versão 144",
+    "ingredientes": [
+      "arroz",
+      "feijão verde",
+      "queijo coalho",
+      "bacon",
+      "cebola",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Cozinhe o feijão, junte com o arroz e os temperos. Adicione queijo coalho no final.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000122-comida.jpg"
+  },
+  {
+    "id": 295,
+    "nome": "Acarajé versão 145",
+    "ingredientes": [
+      "feijão fradinho",
+      "cebola",
+      "sal",
+      "azeite de dendê",
+      "vatapá",
+      "camarão"
+    ],
+    "modo_preparo": "Bata o feijão e a cebola, frite em dendê e recheie com vatapá e camarão.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000129-comida.jpg"
+  },
+  {
+    "id": 296,
+    "nome": "Farofa de Banana versão 146",
+    "ingredientes": [
+      "farinha de mandioca",
+      "banana",
+      "manteiga",
+      "cebola",
+      "sal"
+    ],
+    "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000097-comida.jpg"
+  },
+  {
+    "id": 297,
+    "nome": "Escondidinho de Carne Seca versão 147",
+    "ingredientes": [
+      "carne seca",
+      "mandioca",
+      "leite",
+      "manteiga",
+      "queijo ralado"
+    ],
+    "modo_preparo": "Faça um purê de mandioca, monte camadas com a carne seca e cubra com queijo. Leve ao forno para gratinar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000111-comida.jpg"
+  },
+  {
+    "id": 298,
+    "nome": "Arroz de Carreteiro versão 148",
+    "ingredientes": [
+      "arroz",
+      "carne seca",
+      "cebola",
+      "alho",
+      "cheiro-verde"
+    ],
+    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000130-comida.jpg"
+  },
+  {
+    "id": 299,
+    "nome": "Coxinha de Frango versão 149",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000013-comida.jpg"
+  },
+  {
+    "id": 300,
+    "nome": "Coxinha de Frango versão 150",
+    "ingredientes": [
+      "frango desfiado",
+      "farinha de trigo",
+      "caldo de galinha",
+      "requeijão",
+      "farinha de rosca"
+    ],
+    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000033-comida.jpg"
   }
 ]
