@@ -75,3 +75,5 @@ Desenvolvido por **Carolyna Costa**
 
 ---
 ✨ *Simples, funcional e delicioso!*
+
+<p align="center"> Feito com ❤️ por <b>Carolyna Costa</b> 🩷 </p>
