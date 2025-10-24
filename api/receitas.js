@@ -1,6 +1,7 @@
 export const dynamic = 'force-dynamic';
 
-[
+const receitas = [
+
   {
     "id": 1,
     "nome": "Feijoada",
@@ -41,7 +42,7 @@ export const dynamic = 'force-dynamic';
       "farinha de rosca"
     ],
     "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
-    "imagem": "https://cdn.panelinha.com.br/receita/1600000000003-comida.jpg"
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000123-comida.jpg"
   },
   {
     "id": 4,
@@ -3245,55 +3246,29 @@ export const dynamic = 'force-dynamic';
     "imagem": "https://cdn.panelinha.com.br/receita/1600000000087-comida.jpg"
   },
   {
-    "id": 247,
-    "nome": "Arroz de Carreteiro versão 97",
-    "ingredientes": [
-      "arroz",
-      "carne seca",
-      "cebola",
-      "alho",
-      "cheiro-verde"
-    ],
-    "modo_preparo": "Refogue a carne seca com alho e cebola, adicione o arroz e cozinhe até secar.",
-    "imagem": "https://cdn.panelinha.com.br/receita/1600000000100-comida.jpg"
-  },
-  {
-    "id": 248,
-    "nome": "Coxinha de Frango versão 98",
-    "ingredientes": [
-      "frango desfiado",
-      "farinha de trigo",
-      "caldo de galinha",
-      "requeijão",
-      "farinha de rosca"
-    ],
-    "modo_preparo": "Prepare uma massa com caldo e farinha, recheie com frango e requeijão, empane e frite.",
-    "imagem": "https://cdn.panelinha.com.br/receita/1600000000123-comida.jpg"
-  },
-  {
     "id": 249,
     "nome": "Farofa de Banana versão 99",
     "ingredientes": [
       "farinha de mandioca",
       "banana",
       "manteiga",
-      "cebola",
-      "sal"
+      "cebola"
     ],
     "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
-    "imagem": "https://cdn.panelinha.com.br/receita/1600000000007-comida.jpg"
-  },
-  {
-    "id": 250,
-    "nome": "Pão de Queijo versão 100",
-    "ingredientes": [
-      "polvilho azedo",
-      "leite",
-      "queijo minas",
-      "ovo",
-      "óleo"
-    ],
-    "modo_preparo": "Misture tudo, molde bolinhas e asse até dourar.",
-    "imagem": "https://cdn.panelinha.com.br/receita/1600000000046-comida.jpg"
+    "imagem": "https://cdn.panelinha.com.br/receita/1600000000100-comida.jpg"
   }
-]
+  
+]; 
+
+export async function GET(request) {
+  
+  return new Response(
+    JSON.stringify(receitas),
+    {
+      status: 200,
+      headers: {
+        'Content-Type': 'application/json',
+      }
+    }
+  );
+}
