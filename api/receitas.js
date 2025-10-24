@@ -1,7 +1,7 @@
 export const dynamic = 'force-dynamic';
 
 const receitas = [
-
+  
   {
     "id": 1,
     "nome": "Feijoada",
@@ -3257,17 +3257,53 @@ const receitas = [
     "modo_preparo": "Refogue a banana e a cebola na manteiga, adicione a farinha e mexa até dourar.",
     "imagem": "https://cdn.panelinha.com.br/receita/1600000000100-comida.jpg"
   }
-  
 ]; 
+
+
+
+const normalizarTexto = (texto) => {
+  if (typeof texto !== 'string') return '';
+  return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+};
 
 export async function GET(request) {
   
+  const { searchParams } = new URL(request.url);
+  
+  const termoBusca = searchParams.get('alimento') || searchParams.get('ingrediente');
+  
+  if (!termoBusca) {
+    return new Response(
+      JSON.stringify(receitas),
+      {
+        status: 200,
+        headers: { 
+          'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*' 
+        }
+      }
+    );
+  }
+  
+  const termoBuscaNormalizado = normalizarTexto(termoBusca);
+  
+  const receitasFiltradas = receitas.filter(receita => {
+    
+    const nomeContem = normalizarTexto(receita.nome).includes(termoBuscaNormalizado);
+
+    const ingredientesString = receita.ingredientes.map(i => normalizarTexto(i)).join(' ');
+    const ingredientesContem = ingredientesString.includes(termoBuscaNormalizado);
+    
+    return nomeContem || ingredientesContem;
+  });
+
   return new Response(
-    JSON.stringify(receitas),
+    JSON.stringify(receitasFiltradas),
     {
       status: 200,
-      headers: {
+      headers: { 
         'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*'
       }
     }
   );
