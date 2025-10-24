@@ -1,6 +1,6 @@
 export const dynamic = 'force-dynamic';
 
-const receitasOriginais = [
+const receitas = [
   {
     "id": 1,
     "nome": "Feijoada",
