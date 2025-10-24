@@ -178,11 +178,6 @@ const receitasOriginais = [
   }
 ]; 
 
-const receitas = receitasOriginais.map(receita => ({
-    ...receita,
-    imagem: `https://picsum.photos/id/${(receita.id % 100) + 1}/100/100` 
-}));
-
 const normalizarTexto = (texto) => {
   if (typeof texto !== 'string') return '';
   return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
