@@ -1,6 +1,6 @@
 export const dynamic = 'force-dynamic';
 
-const receitas = [
+const receitasOriginais = [
   
   {
     "id": 1,
@@ -3259,7 +3259,10 @@ const receitas = [
   }
 ]; 
 
-
+const receitas = receitasOriginais.map(receita => ({
+    ...receita,
+    imagem: `https://picsum.photos/id/${(receita.id % 100) + 1}/100/100` 
+}));
 
 const normalizarTexto = (texto) => {
   if (typeof texto !== 'string') return '';
